@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bqrX8xYQEryIpY88mHPOFKDGt6GG/kBrhyH88fBpNLw=",
+  "Source": "ChillMarket.Services.Auth",
+  "BasePath": "_content/ChillMarket.Services.Auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

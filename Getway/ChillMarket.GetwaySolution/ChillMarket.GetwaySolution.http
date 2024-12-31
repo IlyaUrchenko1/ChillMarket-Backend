@@ -1,0 +1,6 @@
+@ChillMarket.GetwaySolution_HostAddress = http://localhost:5007
+
+GET {{ChillMarket.GetwaySolution_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

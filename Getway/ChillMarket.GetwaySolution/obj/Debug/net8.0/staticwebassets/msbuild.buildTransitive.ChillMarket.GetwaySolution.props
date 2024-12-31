@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ChillMarket.GetwaySolution.props" />
+</Project>
